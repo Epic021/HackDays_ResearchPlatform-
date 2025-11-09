@@ -1,0 +1,29 @@
+{
+  "topic": "medical imaging",
+  "conferences": [
+    {
+      "conference_name": "European Congress of Radiology (ECR 2026)",
+      "location": "Vienna, Austria",
+      "date": "March 4-8, 2026",
+      "topics": "Clinical radiology, diagnostic imaging, interventional radiology, medical physics, AI in radiology, imaging informatics.",
+      "submission_deadline": "November 30, 2025",
+      "website": "https://www.myecr.org/ecr2026"
+    },
+    {
+      "conference_name": "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)",
+      "location": "Paris, France",
+      "date": "October 12-16, 2026",
+      "topics": "Medical image analysis, image-guided interventions, machine learning for medical imaging, computational anatomy, medical robotics.",
+      "submission_deadline": "May 15, 2026",
+      "website": "https://www.miccai2026.org"
+    },
+    {
+      "conference_name": "IEEE International Symposium on Biomedical Imaging (ISBI 2027)",
+      "location": "San Francisco, USA",
+      "date": "April 10-14, 2027",
+      "topics": "Image acquisition, reconstruction, processing, analysis, visualization, machine learning, deep learning, computational pathology, microscopy.",
+      "submission_deadline": "December 1, 2026",
+      "website": "https://www.isbi2027.org"
+    }
+  ]
+}

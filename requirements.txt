@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pydantic 
+langgraph
+streamlit
+sqlite 
+langchain-tavily
+langchain-google-genai
+langchain_tavily 
+python-dotenv 
+arxiv
+wikipedia
+huggingface_hub 
